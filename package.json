@@ -63,7 +63,7 @@
     "jest-junit-reporter": "^1.1.0",
     "postcss": "^8.4.31",
     "react-scripts": "^5.0.1",
-    "sass": "^1.62.1",
+    "sass": "^1.70.0",
     "typescript": "^4.9.5"
   },
   "jest": {
