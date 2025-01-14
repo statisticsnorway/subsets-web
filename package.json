@@ -61,7 +61,7 @@
     "@babel/plugin-transform-react-jsx": "^7.22.15",
     "@beam-australia/react-env": "^3.1.1",
     "jest-junit-reporter": "^1.1.0",
-    "postcss": "^8.4.31",
+    "postcss": "^8.5.0",
     "react-scripts": "^5.0.1",
     "sass": "^1.62.1",
     "typescript": "^4.9.5"
